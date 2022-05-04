@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <student>
+    <id>1</id>
+    <name>小明</name>
+    <gender>男</gender>
+    <course>语文</course>
+    <grade>99.0</grade>
+  </student>
+  <student>
+    <id>1</id>
+    <name>小明</name>
+    <gender>男</gender>
+    <course>数学</course>
+    <grade>98.0</grade>
+  </student>
+  <student>
+    <id>2</id>
+    <name>张三</name>
+    <gender>男</gender>
+    <course>语文</course>
+    <grade>60.0</grade>
+  </student>
+  <student>
+    <id>3</id>
+    <name>李四</name>
+    <gender>女</gender>
+    <course>数学</course>
+    <grade>59.0</grade>
+  </student>
+  <student>
+    <id>4</id>
+    <name>王五</name>
+    <gender>女</gender>
+    <course>英语</course>
+    <grade>59.5</grade>
+  </student>
+  <student>
+    <id>5</id>
+    <name>小李</name>
+    <gender>男</gender>
+    <course>物理</course>
+    <grade>88.0</grade>
+  </student>
+</list>
